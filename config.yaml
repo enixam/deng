@@ -1,0 +1,29 @@
+baseurl: https://example.com
+languageCode: en-us
+defaultContentLanguage: en
+isMultilingual: no
+title: 邓思宁
+theme: hugo-theme-sam
+pygmentsStyle: monokai
+pygmentsCodefences: yes
+params:
+  dateform:  Apr 15, 2020
+  dateformfull: Apr 15, 2020
+  description: 邓思宁的个人网站
+  favicon: sam.ico
+  homepage: main
+  images: tn.png
+  mainMenu:
+    - link: poster
+      text: 海报
+    - link: photos
+      text: 摄影
+  title: Deng Sining
+  videoBackground:
+    overlay: rgba(0, 0, 0, 0.4)
+    sources:
+      - poster: /background.png
+        source: /sample_video.mp4
+        type: video/mp4
+imaging:
+  quality: 75
