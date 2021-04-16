@@ -1,6 +1,6 @@
 ---
 clickablePhotos: true
-maxWidth: 600x
+maxWidth: 1000x
 title: 摄影
 type: gallery
 url: /photos
